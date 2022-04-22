@@ -1,18 +1,8 @@
-<style>
-    .coffee-cup {
-        width: 20px;
-        transform: translateY(2px);
-    }
-
-    .ball {
-        width: 20px;
-        animation: roll 2s infinite linear;
-    }
-</style>
+<img src=":/../images/banner.png" width="100%"/>
 
 <div id="header" align="center" style="margin-bottom: 2rem">
   <h2 style="display: inline; font-size: 3rem;">Hey there!</h2>
-    <img src="./images/waving-hand.gif" width="100px" style="transform: translateY(25px);"/>
+    <img src="./images/waving_hand.gif" width="50px" style="tranform: translateY(-50px);"/>
 </div>
 <div>
 My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life and my <strong>mission</strong> is:
@@ -21,13 +11,13 @@ My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life a
 
 I am actually a <strong>Software Engineering student</strong> at the <a href="https://www.disi.unitn.it/">University of Trento</a>.
 
-Like any other programmer, I love coffee, cold brew is my favorite <img src=".images/../images/coffee-cup.png" width="20" class="coffee-cup"/>, until not so long ago I was an active basketball and football player. <img src="/images/basketball.png" class="ball"/>
-<img src="/images/football.png" class="ball"/>
+Like any other programmer, I love coffee, cold brew is my favorite <img src=".images/../images/coffee-cup.png" width="20" class="coffee-cup"/>, until not so long ago I was an active basketball and football player.
+<img src="./images/bb.gif" width="30px"/>
+
 
 Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella">Matt D'Avella</a> does.
 
 The other things I enjoy are pictured in the banner at the top of this page.
-
 </div>
 <div>
 Lately, I have been <strong>studying/learning</strong>:
@@ -48,9 +38,26 @@ What I am going to be studiny in a near future:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+If you would like to see my <strong>updated CV</strong>? <a href="google.com">There you have it!</a>
+
+---
+
+💡 If you have something to suggest, any idea you would like to 
+share or/and discuss, do not hesitate to <strong>contact me</strong>:
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<div>
+<br>
+<br>
 <div align="right">
 That's all for now, <br>
 I'll catch you on my inbox. <br>
-Cheers!
+<strong>Cheers!</strong>
+<br>
+<img src="./images/email.gif" width="100px"/>
 </div>
