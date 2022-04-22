@@ -1,8 +1,7 @@
-<img src="./images/banner_written.jpg" width="100%"/>
+<img src="./images/banner_writing.jpg" width="100%"/>
 
 <div id="header" align="center" style="margin-bottom: 2rem">
-  <h2 style="display: inline; font-size: 3rem;">Hey there!</h2>
-    <img src="./images/waving_hand.gif" width="50px"/>
+  <font weight="bold" size="25px">Hey there!</font><img src="./images/waving_hand.gif" width="50px"/>
 </div>
 <div>
 My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life and my <strong>mission</strong> is:
@@ -15,7 +14,7 @@ Like any other programmer, I love coffee, cold brew is my favorite <img src="./i
 <img src="./images/bb.gif" width="30px"/>
 
 
-Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella">Matt D'Avella</a><img src="./images/yt.png" height="20px" /> does.
+Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella">Matt D'Avella</a><img src="./images/yt.png" width="25px" /> does.
 
 The other things I enjoy are pictured in the banner at the top of this page.
 </div>
@@ -60,5 +59,5 @@ That's all for now, <br>
 I'll catch you on my inbox. <br>
 <strong>Cheers!</strong>
 <br>
-<img src="./images/email.gif" width="100px"/>
+<img src="./images/sake_cheers.gif" width="75px"/>
 </div>
