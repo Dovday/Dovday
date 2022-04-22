@@ -1,8 +1,8 @@
-<img src="./images/banner.png" width="100%"/>
+<img src="./images/banner_written.jpg" width="100%"/>
 
 <div id="header" align="center" style="margin-bottom: 2rem">
   <h2 style="display: inline; font-size: 3rem;">Hey there!</h2>
-    <img src="./images/waving_hand.gif" width="50px" style="tranform: translateY(-50px);"/>
+    <img src="./images/waving_hand.gif" width="50px"/>
 </div>
 <div>
 My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life and my <strong>mission</strong> is:
@@ -15,13 +15,14 @@ Like any other programmer, I love coffee, cold brew is my favorite <img src="./i
 <img src="./images/bb.gif" width="30px"/>
 
 
-Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella">Matt D'Avella</a> does.
+Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella">Matt D'Avella</a><img src="./images/yt.png" height="20px" /> does.
 
 The other things I enjoy are pictured in the banner at the top of this page.
 </div>
 <div>
 Lately, I have been <strong>studying/learning</strong>:
 </div>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,9 +49,9 @@ If you would like to see my <strong>updated CV</strong>? <a href="google.com">Th
 share or/and discuss, do not hesitate to <strong>contact me</strong>:
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+    <a href="https://telegram.me/Dovday"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/></a>
+    <a href = "mailto: dvdcarlomagno@gmail.com?subject = Feedback&body = Hey there! I am contacting you because of your Github readme.md..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.facebook.com/davide.carlomagno.14"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <div>
 <br>
 <br>
