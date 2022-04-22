@@ -8,16 +8,14 @@ My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life a
 
 I am actually a <strong>Software Engineering student</strong> at the <a href="https://www.disi.unitn.it/">University of Trento</a>.
 
-Like any other programmer, I love coffee, cold brew is my favorite <img src="./images/coffee-cup.png" width="20px" class="coffee-cup"/>, until not so long ago I was an active basketball and football player.
-<img src="./images/bb.gif" width="30px"/>
+Like any other programmer, I love coffee, cold brew is my favorite <img src="./images/coffee-cup.png" width="20px" class="coffee-cup"/>, until not so long ago I was an active basketball and football player. :basketball: :football:
 
 
-Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella">Matt D'Avella</a><img src="./images/yt.png" width="25px" /> does.
-
-The other things I enjoy are pictured in the banner at the top of this page.
+Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella"><img src="https://img.shields.io/badge/Matt_D'Avella-%23FF0000.svg?style=flat&logo=YouTube"/></a> does.
+<!-- The other things I enjoy are pictured in the banner at the top of this page. -->
 </div>
 <div>
-Lately, I have been <strong>studying/learning</strong>:
+Lately, I have been <strong>using/studying/learning</strong>:
 </div>
 <br>
 
@@ -32,7 +30,7 @@ Lately, I have been <strong>studying/learning</strong>:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-What I am going to be studiny in a near future:
+What I am going to be studying in a near future:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
