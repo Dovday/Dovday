@@ -1,5 +1,3 @@
-<img src="./images/banner_writing.jpg" width="100%"/>
-
 <div id="header" align="center" style="margin-bottom: 2rem">
   <h1>Hey there!</h1><img src="./images/waving_hand.gif" width="50px"/>
 </div>
