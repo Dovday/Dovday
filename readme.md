@@ -8,7 +8,7 @@ My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life a
 
 I am actually a <strong>Software Engineering student</strong> at the <a href="https://www.disi.unitn.it/">University of Trento</a>.
 
-Like any other programmer, I love coffee, cold brew is my favorite <img src="./images/coffee-cup.png" width="20px" class="coffee-cup"/>, until not so long ago I was an active basketball and football player. :basketball: :football:
+Like any other programmer, I love coffee, cold brew is my favorite <img src="./images/coffee-cup.png" width="20px" class="coffee-cup"/>, until not so long ago I was an active basketball and football player. :basketball:
 
 
 Now I hit the gym, just like <a href="https://www.youtube.com/c/MattDAvella"><img src="https://img.shields.io/badge/Matt_D'Avella-%23FF0000.svg?style=flat&logo=YouTube"/></a> does.
