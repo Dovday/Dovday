@@ -1,7 +1,7 @@
 <img src="./images/banner_writing.jpg" width="100%"/>
 
 <div id="header" align="center" style="margin-bottom: 2rem">
-  <font weight="bold" size="25px">Hey there!</font><img src="./images/waving_hand.gif" width="50px"/>
+  <h1>Hey there!</h1><img src="./images/waving_hand.gif" width="50px"/>
 </div>
 <div>
 My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life and my <strong>mission</strong> is:
