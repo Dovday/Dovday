@@ -54,6 +54,4 @@ share or/and discuss, do not hesitate to <strong>contact me</strong>:
 That's all for now, <br>
 I'll catch you on my inbox. <br>
 <strong>Cheers!</strong>
-<br>
-<img src="./images/sake_cheers.gif" width="75px"/>
 </div>
