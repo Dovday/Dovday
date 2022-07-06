@@ -1,5 +1,5 @@
 <div id="header" align="center" style="margin-bottom: 2rem">
-  <h1>Hey there!</h1><img src="./images/waving_hand.gif" width="25px"/>
+  <h1>Hey there!</h1>
 </div>
 <div>
 My name is <strong>Davide Carlomagno</strong>, I am an Italian student of life and my <strong>mission</strong> is:
